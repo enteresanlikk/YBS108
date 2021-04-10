@@ -7,6 +7,7 @@ def unique_numbers(numbers):
             tmp_array.append(number)
     return tmp_array
 
-unique_number_list = unique_numbers(np.array([0, 5, 4, 0, 4, 4, 3, 0, 0, 5, 2, 1, 1, 9]))
+array = np.array([0, 5, 4, 0, 4, 4, 3, 0, 0, 5, 2, 1, 1, 9])
+unique_number_list = unique_numbers(array)
 
 unique_number_list

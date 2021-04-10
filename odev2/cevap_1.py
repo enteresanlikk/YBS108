@@ -14,6 +14,7 @@ def distinct_number(numbers):
         return int(max_val[0])
     return 'NO_RESULT'
 
-max_repeated_number = distinct_number(np.array([0, 5, 4, 0, 4, 4, 3, 4, 0, 0, 4, 5, 2, 1, 1, 9]))
+array = np.array([0, 5, 4, 0, 4, 4, 3, 4, 0, 0, 4, 5, 2, 1, 1, 9])
+max_repeated_number = distinct_number(array)
 
 max_repeated_number
