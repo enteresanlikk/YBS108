@@ -15,3 +15,5 @@ Okunan dosyadaki veri seti LEGO setlerine dair bilgileri içermektedir. Cevaplar
 5. Veri setini kullanarak, yıllara göre lego setlerinin içerdikleri ortalama parça sayılarını gösteren bir grafik çıktısı oluşturunuz.  [Cevap](cevap_5.py)
 
 6. Veri setine göre LEGO en fazla sayıda tema çeşidi içeren setlerini hangi yıl çıkarmıştır?  [Cevap](cevap_6.py)
+
+# [**Jupyter.ipynb** Kodlarına bakmak için tıklayın](Jupyter.ipynb)
