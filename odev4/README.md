@@ -1,0 +1,8 @@
+1) R standart veri setleri arasında yer alan mtcars listesinde en yüksek yakıt tüketimi (mpg) olan arabayı bulunuz.
+2) mtcars listesinde yer alan "Ferrari Dino" marka aracın beygir gücü (hp) kaçtır?
+3) mtcars listesinde yer alan araçların medyan ağırlığı (wt) nedir?
+4) R standart veri setleri arasında yer alan morley listesinde ışık hızını hesaplamak için 1887 yılında Albert Michelson ve Edward Morley tarafından yapılan ölçüm değerleri bulunmaktadır. Veri setinde hız (Speed) kolonu ölçülen değerden 299000 çıkarılarak verilmiştir ve birimi km/s'dir. Listede yer alan verilere göre ışığın medyan hızı (Speed) kaç olarak bulunmuştur?
+5) morley listesine "gercek" adında yeni bir kolon ekleyerek ışığın deneyde ölçülen değerini bu kolonda gösteriniz (Speed kolonu gerçek ölçülen değerden 299000 çıkarılmış değerlerdir)
+6) R standart veri setleri arasında yer alan Puromycin listesinde Puromycin ile tedavi edilen (treated) ve tedavi edilemeyen (untreated) bir hastalığın klinik test sonuçları (state) miktar (conc) ve reaksiyon hızı (rate) değerleri ile birlikte verilmektedir. Listedeki verilere göre Puromycin ile tedavi edilen (treated) ve tadavi edilemeyen (untreated) hasta sayılarının birbirlerine oranı kaçtır?
+7) R standart veri setleri arasında yer alan Iris listesinde 3 farklı bitki türü için (virginica, setosa, versicolor) Edgar Anderson tarafından yapılan yaprak ölçüm değerleri yer alır. Listedeki verilere göre,  taç yaprak uzunluğunun (Petal.Length) ortalama değeri (mean) en büyük olan bitki hangisidir?
+8) Iris veri setinde yer alan her bitki türü için (Species) ölçülen 4 farklı uzunluğun ("Sepal.Length", "Sepal.Width",  "Petal.Length", "Petal.Width") ortalama değerlerini hesaplayınız. (ipucu: subset ve apply fonksiyonlarını kullanabilirsiniz.)
